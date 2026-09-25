@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Admin Dashboard Product App
 
 This project is a simple React + Vite frontend for the product management assignment. It connects to the DummyJSON API for login and product operations while keeping the code easy to understand and explain in an interview.
@@ -85,7 +84,10 @@ The main challenge was keeping the page state, search behavior, and URL query pa
 
 ## Where AI tools helped
 
-AI tools helped generate and streamline the implementation so it stayed simple, matched the assignment, and remained readable for a fresher-level developer to explain during an interview.
-=======
+# AI tools helped generate and streamline the implementation so it stayed simple, matched the assignment, and remained readable for a fresher-level developer to explain during an interview.
+
 # product-admin-dashboard
->>>>>>> cbf7394d6b81366a5df539481824e5a44bf16070
+
+> > > > > > > # cbf7394d6b81366a5df539481824e5a44bf16070
+
+> > > > > > > origin/main
