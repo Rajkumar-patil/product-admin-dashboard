@@ -82,12 +82,3 @@ The app uses loading flags and guard checks before sending duplicate calls. This
 
 The main challenge was keeping the page state, search behavior, and URL query parameters aligned while also blocking stale search responses. The solution was to synchronize URL state with React state and to ignore outdated requests by comparing request IDs before updating the UI.
 
-## Where AI tools helped
-
-# AI tools helped generate and streamline the implementation so it stayed simple, matched the assignment, and remained readable for a fresher-level developer to explain during an interview.
-
-# product-admin-dashboard
-
-> > > > > > > # cbf7394d6b81366a5df539481824e5a44bf16070
-
-> > > > > > > origin/main
